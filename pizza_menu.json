@@ -27,7 +27,7 @@
             "big-price": 329,
             "small-price": null,
             "description": "特調濃郁白醬搭配肥美的花枝與蟹肉棒, 加上特調龍蝦沙拉,吃出滿口鮮甜的海洋風味!",
-            "picture": "pizza-3"
+            "picture": "pizza-3.png"
         },
         {
             "name": "總匯披薩",
@@ -37,7 +37,7 @@
             "big-price": 329,
             "small-price": 229,
             "description": "特製餅皮鑲嵌豐富豬肉餡，鮮美火腿與道地義式肉腸，加上特選青蔬，經典組合、頂級享受！",
-            "picture": "pizza-4"
+            "picture": "pizza-4.png"
         },
         {
             "name": "墨西哥嗆辣披薩",
@@ -47,15 +47,15 @@
             "big-price": 329,
             "small-price": 229,
             "description": "自由奔放的墨西哥城，以嗆辣的墨西哥辣椒著名， 拿坡裡把它們灑上Q彈餅皮，搭配義式",
-            "picture": ""
+            "picture": "pizza-5.png"
         },
         {
             "name": "西西里燻雞披薩",
             "english-name": "House Smoked Chicken",
             "food": "chicken",
             "stuffing": "燻雞肉、蘑菇",
-            "big-price": "$329",
-            "small-price": "$229",
+            "big-price": 329,
+            "small-price": 229,
             "description": "散發濃郁香氣的煙燻雞肉加上蘑菇的鮮嫩口感，富嚼勁的餅皮，佐以特製番茄醬，讓你享受道地的義式風味！",
             "picture": "pizza-6.png"
         },
@@ -64,8 +64,8 @@
             "english-name": "Seafood",
             "food": "fish",
             "stuffing": "花枝、蝦仁、蟹條、海苔粉",
-            "big-price": "$329",
-            "small-price": "$229",
+            "big-price": 329,
+            "small-price": 229,
             "description": "細緻軟嫩的蟹條，嚼勁十足的花枝，以及鮮嫩彈牙的蝦仁，灑上海苔絲，宛如置身海港城市大快朵頤！",
             "picture": "pizza-7.png"
         },
@@ -74,8 +74,8 @@
             "english-name": "Mediterranean Fisherman",
             "food": "fish",
             "stuffing": "照燒醬、鮪魚、章魚丁、洋蔥丁、海苔粉、美乃滋",
-            "big-price": "$329",
-            "small-price": "$229",
+            "big-price": 329,
+            "small-price": 229,
             "description": "特級鮪魚與章魚丁鮮妙組合，灑上香鬆、海苔絲、美乃滋，獨一無二的香甜自然香味。",
             "picture": "pizza-8.png"
         },
@@ -84,8 +84,8 @@
             "english-name": "Hawaiian",
             "food": "pork",
             "stuffing": "火腿、鳳梨",
-            "big-price": "$329",
-            "small-price": "$229",
+            "big-price": 329,
+            "small-price": 229,
             "description": "煙燻火腿搭配特選鳳梨，經典不敗美味。",
             "picture": "pizza-9.png"
         },
@@ -94,8 +94,8 @@
             "english-name": "Vegetarian",
             "food": "Vegetable",
             "stuffing": "青椒、蘑菇、青豆、玉米、香菇",
-            "big-price": "$329",
-            "small-price": "$229",
+            "big-price": 329,
+            "small-price": 229,
             "description": "多樣特選蔬菜，青脆青椒，搭配香菇，再灑上玉米、青豆，帶給你豐富有元氣的輕食披薩口味(菠菜香草奶油醬)。",
             "picture": "pizza-10.png"
         },
