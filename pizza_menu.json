@@ -92,7 +92,7 @@
         {
             "name": "蔬菜披薩(奶素)",
             "english_name": "Vegetarian",
-            "food": "Vegetable",
+            "food": "vegetable",
             "stuffing": "青椒、蘑菇、青豆、玉米、香菇",
             "big_price": 329,
             "small_price": 229,
